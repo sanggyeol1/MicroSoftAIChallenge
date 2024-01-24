@@ -94,3 +94,4 @@ while True:
     else:
         Rled.value(0)  # Rled 끄기
     utime.sleep(0.1)
+
